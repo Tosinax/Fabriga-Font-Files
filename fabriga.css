@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Fabriga';
+    src: url('https://raw.githubusercontent.com/Tosinax/Fabriga-Font-Files/main/fabriga.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Tosinax/Fabriga-Font-Files/main/fabriga.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
